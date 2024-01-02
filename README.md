@@ -1,5 +1,4 @@
 # aulaPython
 
-Repositório criado para desenvolvimento das aulas básicas do curso: 
+Repositório criado para armazenamento de material para consulta e desenvolvimento das aulas de Python.
 
-Introdução a linguagem de programação Python
